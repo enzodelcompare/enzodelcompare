@@ -6,10 +6,6 @@
   <a href="https://enzodelcompare.github.io/" alt="Contributors">
     <img src="https://img.shields.io/badge/site-enzodelcompare-lightgrey" />
   </a>
-  
-  <a href="https://github.com/enzodelcompare/enzodelcompare/blob/master/cv/cv_enzodelcompare.pdf">
-    <img src="https://img.shields.io/badge/curr%C3%ADculo-enzodelcompare-red">
-  </a>
 </p>
 
 ![Enzo Delcompare](/imagens/enzo_delcompare.jpeg)
