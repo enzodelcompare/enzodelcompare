@@ -26,6 +26,8 @@
 
 **Estuda?** Sim! Atualmente, estou cursando a [**FCD** - Formação Cientista de Dados na **DSA** - Data Science Academy](https://www.datascienceacademy.com.br/pages/formacao-cientista-de-dados)
 
+**Trabalha?** Sim! Sou Analista **GOA** - Gestão de Operações Agrícolas na [**COFCO INTL**](https://br.cofcointernational.com/)
+
 <br>
 
 <p>
