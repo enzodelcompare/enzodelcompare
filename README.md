@@ -18,7 +18,7 @@
 
 <br>
 
-:person_with_blond_hair:**Nome:** Enzo Delcompare
+:bust_in_silhouette: **Nome:** Enzo Delcompare
 
 :pushpin: **Local:** São José do Rio Preto - SP
 
