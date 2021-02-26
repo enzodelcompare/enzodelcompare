@@ -32,7 +32,15 @@
 
 <br>
 
-[![Meu Linkedin](https://img.shields.io/badge/LinkedIn--blue?style=for-the-badge&logo=linkedin&link=https://https://www.linkedin.com/in/lucasaraujo0255/&logoColor=white)](https://www.linkedin.com/in/enzodelcompare/)
+<p align="center">
+  <a href="https://www.linkedin.com/in/enzodelcompare/">
+    <img src="https://img.shields.io/badge/linkedin-enzodelcompare-blue">
+  </a>
+  
+  <a href="https://github.com/enzodelcompare/enzodelcompare/blob/master/cv/cv_enzodelcompare.pdf">
+    <img src="https://img.shields.io/badge/curr%C3%ADculo-enzodelcompare-red">
+  </a>
+</p>
 
 # 
 
