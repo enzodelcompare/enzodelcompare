@@ -18,9 +18,9 @@
 
 # Quem sou eu?
 
-<br>
+### Olá, seja bem vindo(a) ao meu **GitHub**!
 
-## Olá, seja bem vindo(a) ao meu **GitHub**!
+<br>
 
 **Nome:** Enzo Delcompare
 
