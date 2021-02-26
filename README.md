@@ -28,7 +28,7 @@
 
 <br>
 
-<p align="center">
+<p>
   <a href="https://www.linkedin.com/in/enzodelcompare/">
     <img src="https://img.shields.io/badge/linkedin-enzodelcompare-blue">
   </a>
