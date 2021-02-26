@@ -28,6 +28,8 @@
 
 :office: **Trabalha?** Sim! Sou Analista **GOA** - Gestão de Operações Agrícolas na [**COFCO INTL**](https://br.cofcointernational.com/)
 
+:rocket: **Projetos:** [Meus Projetos](https://github.com/enzodelcompare/portfolio)
+
 <br>
 
 <p>
