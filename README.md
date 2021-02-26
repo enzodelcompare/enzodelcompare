@@ -18,15 +18,15 @@
 
 <br>
 
-**Nome:** Enzo Delcompare
+:person_with_blond_hair: **Nome:** Enzo Delcompare
 
-**Local:** São José do Rio Preto - SP
+:pushpin: **Local:** São José do Rio Preto - SP
 
-**Formação:** Gestão da Tecnologia da Informação
+:mortar_board: **Formação:** Gestão da Tecnologia da Informação
 
-**Estuda?** Sim! Atualmente, estou cursando a [**FCD** - Formação Cientista de Dados na **DSA** - Data Science Academy](https://www.datascienceacademy.com.br/pages/formacao-cientista-de-dados)
+:notebook: **Estuda?** Sim! Atualmente, estou cursando a [**FCD** - Formação Cientista de Dados na **DSA** - Data Science Academy](https://www.datascienceacademy.com.br/pages/formacao-cientista-de-dados)
 
-**Trabalha?** Sim! Sou Analista **GOA** - Gestão de Operações Agrícolas na [**COFCO INTL**](https://br.cofcointernational.com/)
+:office: **Trabalha?** Sim! Sou Analista **GOA** - Gestão de Operações Agrícolas na [**COFCO INTL**](https://br.cofcointernational.com/)
 
 <br>
 
