@@ -8,7 +8,7 @@
   </a>
 </p>
 
-![Enzo Delcompare](/imagens/enzo_delcompare.pn
+![Enzo Delcompare](/imagens/enzo_delcompare.png)
 
 <br>
 
