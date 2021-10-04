@@ -26,7 +26,7 @@
 
 :notebook: **Estuda?** Sim! Atualmente, estou cursando a [**FCD** - Formação Cientista de Dados](https://www.datascienceacademy.com.br/pages/formacao-cientista-de-dados) na **DSA** - Data Science Academy
 
-:office: **Trabalha?** Sim! Sou Analista **GOA** - Gestão de Operações Agrícolas na [**COFCO INTL**](https://br.cofcointernational.com/)
+:office: **Trabalha?** Sim! Sou Business Intelligence Analyst na [**SEGURALTA**](https://seguralta.com.br/)
 
 :rocket: **Projetos:** [Meus Projetos](https://github.com/enzodelcompare/portfolio)
 
