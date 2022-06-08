@@ -24,11 +24,11 @@
 
 :mortar_board: **Formação:** Gestão da Tecnologia da Informação
 
-:notebook: **Estuda?** Sim! Atualmente, estou cursando a [**FCD** - Formação Cientista de Dados](https://www.datascienceacademy.com.br/pages/formacao-cientista-de-dados) na **DSA** - Data Science Academy
+:notebook: **Estuda?** Sim, sempre em constante aprendizado!
 
-:office: **Trabalha?** Sim! Sou Business Intelligence Analyst na [**SEGURALTA**](https://seguralta.com.br/)
+:office: **Trabalha?** Sim, na [**KEYRUS**](https://keyrus.com/br/pt/home)
 
-:rocket: **Projetos:** [Meus Projetos](https://github.com/enzodelcompare/portfolio)
+:rocket: **Projetos:** Em construção...
 
 <br>
 
