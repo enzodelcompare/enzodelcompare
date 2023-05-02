@@ -31,9 +31,9 @@ Ver [**projetos.**](https://postosmontecarlo.com.br/)
     <img src="https://img.shields.io/badge/linkedin-enzodelcompare-blue">
   </a>
   
-  <a href="https://github.com/enzodelcompare/enzodelcompare/blob/master/cv/cv_enzodelcompare.pdf">
+  <!--<a href="https://github.com/enzodelcompare/enzodelcompare/blob/master/cv/cv_enzodelcompare.pdf">
     <img src="https://img.shields.io/badge/curr%C3%ADculo-enzodelcompare-red">
-  </a>
+  </a>-->
 </p>
 
 # 
