@@ -2,10 +2,6 @@
   <a href="https://www.enzodelcompare.com.br">
     <img src="https://img.shields.io/badge/criador-enzodelcompare-yellowgreen">
   </a>
-  
-  <a href="https://enzodelcompare.github.io/" alt="Contributors">
-    <img src="https://img.shields.io/badge/site-enzodelcompare-lightgrey" />
-  </a>
 </p>
 
 ![Enzo Delcompare](/imagens/enzo_delcompare.png)
@@ -18,17 +14,15 @@
 
 <br>
 
-:bust_in_silhouette: **Nome:** Enzo Delcompare
+**Nome:** Enzo Delcompare
 
-:pushpin: **Local:** São José do Rio Preto - SP
+**Local:** São José do Rio Preto - SP
 
-:mortar_board: **Formação:** Gestão da Tecnologia da Informação
+**Formação:** Gestão da Tecnologia da Informação
 
-:notebook: **Estuda?** Sim, sempre em constante aprendizado!
+**Onde trabalha?** [**Rede de Postos Monte Carlo**](https://postosmontecarlo.com.br/)
 
-:office: **Trabalha?** Sim, na [**KEYRUS**](https://keyrus.com/br/pt/home)
-
-:rocket: **Projetos:** Em construção...
+Ver [**projetos.**](https://postosmontecarlo.com.br/)
 
 <br>
 
