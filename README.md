@@ -22,7 +22,7 @@
 
 **Onde trabalha?** [**Rede de Postos Monte Carlo**](https://postosmontecarlo.com.br/)
 
-Ver [**projetos.**](https://postosmontecarlo.com.br/)
+Ver [**projetos.**](#)
 
 <br>
 
