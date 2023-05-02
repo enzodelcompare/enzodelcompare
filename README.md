@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://www.enzodelcompare.com.br">
+  <a href="https://www.enzodelcompare.com.br" target="_blank">
     <img src="https://img.shields.io/badge/criador-enzodelcompare-yellowgreen">
   </a>
   
