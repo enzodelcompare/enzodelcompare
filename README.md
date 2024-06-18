@@ -22,8 +22,6 @@
 
 **Onde trabalha?** [**Tereos**](https://br.tereos.com/pt-pt/)
 
-Ver [**projetos.**](#)
-
 <br>
 
 <p>
