@@ -18,9 +18,9 @@
 
 **Local:** São José do Rio Preto - SP
 
-**Formação:** Gestão da Tecnologia da Informação
+**Formação:** Gestão em Tecnologia da Informação
 
-**Onde trabalha?** [**Rede de Postos Monte Carlo**](https://postosmontecarlo.com.br/)
+**Onde trabalha?** [**Tereos**](https://br.tereos.com/pt-pt/)
 
 Ver [**projetos.**](#)
 
