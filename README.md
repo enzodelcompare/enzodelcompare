@@ -32,10 +32,6 @@ Obrigado por visitar o meu perfil e por fazer parte desta jornada fascinante de 
   <a href="https://www.linkedin.com/in/enzodelcompare/">
     <img src="https://img.shields.io/badge/linkedin-enzodelcompare-blue">
   </a>
-  
-  <!--<a href="https://github.com/enzodelcompare/enzodelcompare/blob/master/cv/cv_enzodelcompare.pdf">
-    <img src="https://img.shields.io/badge/curr%C3%ADculo-enzodelcompare-red">
-  </a>-->
 </p>
 
 # 
