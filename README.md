@@ -1,6 +1,6 @@
 <p align="center">
-  <a href="https://www.enzodelcompare.com.br">
-    <img src="https://img.shields.io/badge/criador-enzodelcompare-yellowgreen">
+  <a href="https://www.linkedin.com/in/enzodelcompare">
+    <img src="https://img.shields.io/badge/criador-enzodelcompare-blue">
   </a>
 </p>
 
