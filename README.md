@@ -6,7 +6,7 @@
 
 <br>
 
-Olá, eu sou Enzo Delcompare, e minha jornada gira em torno do fascinante mundo dos dados.
+Olá, me chamo Enzo Delcompare, e minha jornada gira em torno do fascinante mundo dos dados.
 
 Com uma sólida experiência de mais de 10 anos em análise de dados, meu compromisso é transformar dados brutos em conhecimento acionável. Ao longo da minha carreira, tive o privilégio de trabalhar em diversas áreas, agro, corretoras de seguros, saúde, varejo, segurança pública, educação e finanças.
 
